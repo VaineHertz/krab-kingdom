@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/krab-kingdom/precache-manifest.765e7c232c8ae884fec6f8b6bc11d486.js"
+  "/krab-kingdom/precache-manifest.07a97d7cf27676056a007c14e9396ab8.js"
 );
 
 self.addEventListener('message', (event) => {

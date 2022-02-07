@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52138c14815135fabdca7d2327003b88",
+    "revision": "924949221588392f7998046633f22cdd",
     "url": "/krab-kingdom/index.html"
   },
   {
-    "revision": "9ff67190ba5b9fbff82b",
-    "url": "/krab-kingdom/static/css/main.a3d7745c.chunk.css"
+    "revision": "c066fb6059df2781f4b2",
+    "url": "/krab-kingdom/static/css/main.2824e0e7.chunk.css"
   },
   {
     "revision": "8f74189ec1053b395df8",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/krab-kingdom/static/js/3.0a738eea.chunk.js"
   },
   {
-    "revision": "9ff67190ba5b9fbff82b",
-    "url": "/krab-kingdom/static/js/main.d05bba8f.chunk.js"
+    "revision": "c066fb6059df2781f4b2",
+    "url": "/krab-kingdom/static/js/main.c7bf9a6e.chunk.js"
   },
   {
     "revision": "a0fccfc08c695f22c517",
