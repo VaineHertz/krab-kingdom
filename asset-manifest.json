@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/krab-kingdom/static/css/main.ad0472ff.chunk.css",
-    "main.js": "/krab-kingdom/static/js/main.4e8e1f8e.chunk.js",
-    "main.js.map": "/krab-kingdom/static/js/main.4e8e1f8e.chunk.js.map",
-    "runtime~main.js": "/krab-kingdom/static/js/runtime~main.c0f93584.js",
-    "runtime~main.js.map": "/krab-kingdom/static/js/runtime~main.c0f93584.js.map",
-    "static/js/2.0851b246.chunk.js": "/krab-kingdom/static/js/2.0851b246.chunk.js",
-    "static/js/2.0851b246.chunk.js.map": "/krab-kingdom/static/js/2.0851b246.chunk.js.map",
-    "static/js/3.0a738eea.chunk.js": "/krab-kingdom/static/js/3.0a738eea.chunk.js",
-    "static/js/3.0a738eea.chunk.js.map": "/krab-kingdom/static/js/3.0a738eea.chunk.js.map",
+    "main.js": "/krab-kingdom/static/js/main.86b32916.chunk.js",
+    "main.js.map": "/krab-kingdom/static/js/main.86b32916.chunk.js.map",
+    "runtime~main.js": "/krab-kingdom/static/js/runtime~main.326c75cd.js",
+    "runtime~main.js.map": "/krab-kingdom/static/js/runtime~main.326c75cd.js.map",
+    "static/js/2.6a5bba18.chunk.js": "/krab-kingdom/static/js/2.6a5bba18.chunk.js",
+    "static/js/2.6a5bba18.chunk.js.map": "/krab-kingdom/static/js/2.6a5bba18.chunk.js.map",
+    "static/js/3.987c3a98.chunk.js": "/krab-kingdom/static/js/3.987c3a98.chunk.js",
+    "static/js/3.987c3a98.chunk.js.map": "/krab-kingdom/static/js/3.987c3a98.chunk.js.map",
     "index.html": "/krab-kingdom/index.html",
-    "precache-manifest.cf29ce168ed25d081d049963970cce4b.js": "/krab-kingdom/precache-manifest.cf29ce168ed25d081d049963970cce4b.js",
+    "precache-manifest.d6c13a97950bbfec678871bdcb473eef.js": "/krab-kingdom/precache-manifest.d6c13a97950bbfec678871bdcb473eef.js",
     "service-worker.js": "/krab-kingdom/service-worker.js",
     "static/css/main.ad0472ff.chunk.css.map": "/krab-kingdom/static/css/main.ad0472ff.chunk.css.map",
-    "static/media/OpenDyslexic-Bold.otf": "/krab-kingdom/static/media/OpenDyslexic-Bold.98706a4b.otf"
+    "static/media/OpenDyslexic-Bold.otf": "/krab-kingdom/static/media/OpenDyslexic-Bold.98706a4b.otf",
+    "static/media/crab.png": "/krab-kingdom/static/media/crab.09069f07.png"
   }
 }
