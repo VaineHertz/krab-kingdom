@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/krab-kingdom/static/css/main.a3d7745c.chunk.css",
+    "main.js": "/krab-kingdom/static/js/main.d05bba8f.chunk.js",
+    "main.js.map": "/krab-kingdom/static/js/main.d05bba8f.chunk.js.map",
+    "runtime~main.js": "/krab-kingdom/static/js/runtime~main.c0f93584.js",
+    "runtime~main.js.map": "/krab-kingdom/static/js/runtime~main.c0f93584.js.map",
+    "static/js/2.0851b246.chunk.js": "/krab-kingdom/static/js/2.0851b246.chunk.js",
+    "static/js/2.0851b246.chunk.js.map": "/krab-kingdom/static/js/2.0851b246.chunk.js.map",
+    "static/js/3.0a738eea.chunk.js": "/krab-kingdom/static/js/3.0a738eea.chunk.js",
+    "static/js/3.0a738eea.chunk.js.map": "/krab-kingdom/static/js/3.0a738eea.chunk.js.map",
+    "index.html": "/krab-kingdom/index.html",
+    "precache-manifest.765e7c232c8ae884fec6f8b6bc11d486.js": "/krab-kingdom/precache-manifest.765e7c232c8ae884fec6f8b6bc11d486.js",
+    "service-worker.js": "/krab-kingdom/service-worker.js",
+    "static/css/main.a3d7745c.chunk.css.map": "/krab-kingdom/static/css/main.a3d7745c.chunk.css.map",
+    "static/media/OpenDyslexic-Bold.otf": "/krab-kingdom/static/media/OpenDyslexic-Bold.98706a4b.otf"
+  }
+}
