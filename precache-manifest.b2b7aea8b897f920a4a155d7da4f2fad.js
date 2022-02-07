@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d73fda29497e5eb39e34105368d4a614",
+    "revision": "07ee7e794ea3cde5499639661eaa3d70",
     "url": "/krab-kingdom/index.html"
   },
   {
