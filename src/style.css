@@ -1,0 +1,72 @@
+
+a:link, a:visited{
+	text-decoration: none;
+	text-decoration-color: #a0a688;
+	color: #d1d6bf;
+}
+
+a:hover, a:active{
+	color: #dbdbdb;
+	text-decoration-color: #dbdbdb;
+}
+
+html{
+	background-color: rgb(235, 233, 223)
+}
+
+.myName{
+	margin-top: 20%;
+	color: #000000;
+	font: 144px "GreatVibes-Regular";
+}
+.info{
+	margin-left: 30px;
+	font-size: 30px;
+	text-align: left;
+	color: #e8e3dc
+}
+
+.numberSection{
+	color: rgb(0, 2, 7)
+
+}
+
+.title{
+	font: 70px "OpenDyslexic-Bold";
+	font-variant: small-caps;
+	color: rgb(255, 123, 0);
+	margin-top: 7%
+}
+.buttonsBorder {
+	border: 3px outset lightblue;
+	background-color: inherit;
+	padding: 14px 28px;
+	font-size: 30px;
+	display: inline-block;
+	width: 600px;
+  height: 100px;
+
+  }
+  
+  
+  .newGame {
+	background-color: inherit;
+	padding: 14px 28px;
+	font-size: 30px;
+	cursor: pointer;
+	display: inline-block;
+	  color: green;
+	  vertical-align:bottom;
+	}
+
+  .info {
+	background-color: inherit;
+	padding: 14px 28px;
+	font-size: 30px;
+	cursor: pointer;
+	display: inline-block;
+ margin-left: 150px;
+	  color: dodgerblue;
+	}
+	.success:hover {background: #eee;}
+	.info:hover {background: #eee;}
