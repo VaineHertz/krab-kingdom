@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/krab-kingdom/static/css/main.2824e0e7.chunk.css",
-    "main.js": "/krab-kingdom/static/js/main.c7bf9a6e.chunk.js",
-    "main.js.map": "/krab-kingdom/static/js/main.c7bf9a6e.chunk.js.map",
+    "main.css": "/krab-kingdom/static/css/main.ad0472ff.chunk.css",
+    "main.js": "/krab-kingdom/static/js/main.4e8e1f8e.chunk.js",
+    "main.js.map": "/krab-kingdom/static/js/main.4e8e1f8e.chunk.js.map",
     "runtime~main.js": "/krab-kingdom/static/js/runtime~main.c0f93584.js",
     "runtime~main.js.map": "/krab-kingdom/static/js/runtime~main.c0f93584.js.map",
     "static/js/2.0851b246.chunk.js": "/krab-kingdom/static/js/2.0851b246.chunk.js",
@@ -10,9 +10,9 @@
     "static/js/3.0a738eea.chunk.js": "/krab-kingdom/static/js/3.0a738eea.chunk.js",
     "static/js/3.0a738eea.chunk.js.map": "/krab-kingdom/static/js/3.0a738eea.chunk.js.map",
     "index.html": "/krab-kingdom/index.html",
-    "precache-manifest.07a97d7cf27676056a007c14e9396ab8.js": "/krab-kingdom/precache-manifest.07a97d7cf27676056a007c14e9396ab8.js",
+    "precache-manifest.cf29ce168ed25d081d049963970cce4b.js": "/krab-kingdom/precache-manifest.cf29ce168ed25d081d049963970cce4b.js",
     "service-worker.js": "/krab-kingdom/service-worker.js",
-    "static/css/main.2824e0e7.chunk.css.map": "/krab-kingdom/static/css/main.2824e0e7.chunk.css.map",
+    "static/css/main.ad0472ff.chunk.css.map": "/krab-kingdom/static/css/main.ad0472ff.chunk.css.map",
     "static/media/OpenDyslexic-Bold.otf": "/krab-kingdom/static/media/OpenDyslexic-Bold.98706a4b.otf"
   }
 }
