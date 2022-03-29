@@ -43,7 +43,7 @@ function App() {
     var crabImage = new Image();
     crabImage.src = crab;
     crabImage.onload = function(){
-    ctx.drawImage(crabImage,0,0,120*canvasScale,78*canvasScale);
+    ctx.drawImage(crabImage,0,0,120,78);
     }
   }, []);
 
